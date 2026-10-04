@@ -17,10 +17,6 @@
 
 ---
 
-> **授权声明**:仓库内 [emotion-ball/](emotion-ball/) 目录的球形角色**视觉形象**(blob / wedge / gem 身体造型、配色与特效视觉)仅供个人技术学习与研究,**禁止任何商业用途**且永不提供商业授权;表情引擎源代码与表情配置数据(眼形 / 嘴形参数、动画原语、关键帧序列)为独立编写,**双许可**——非商业免费,商业用途可获取授权。详见 [LICENSE](LICENSE)、[LICENSE-COMMERCIAL.md](LICENSE-COMMERCIAL.md) 与 [NOTICE.md](NOTICE.md)。
->
-> [mood-mates/](mood-mates/) 目录为同源引擎的**原创角色子项目**(云宝 Nimbo / 亮亮 Twinkle),独立原创设计,采用**双许可**(个人学习免费 + 可获取商业授权),不受上述限制约束。
-
 本仓库由「一座总馆 + 两个子项目」组成:
 
 - **总馆(根目录 `index.html`)**:云宝 × 亮亮 × 球球 三个角色**同台切换展示**——同一面 32 表情陈列墙,点击顶部角色卡即可整馆换角,由两套引擎(MoodMates + EmotionBall)共同驱动;
