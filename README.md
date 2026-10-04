@@ -228,14 +228,6 @@ EmotionBall.config.importConfig(json);
 └── .cursor/skills/     # AI 协作 Skills:表情设计规范 + 集成实践
 ```
 
-## 许可
-
-本仓库包含三类授权不同的内容,请注意区分:
-
-- **表情引擎与表情数据(根目录及 [emotion-ball/](emotion-ball/) 目录)**:源代码(状态机、弹簧插值、球面投影、配置注册中心等)与表情配置数据(眼环 / 眼形 / 嘴形参数、动画原语、关键帧序列)为独立编写与设计,**双许可**——个人学习、研究免费([LICENSE](LICENSE));商业用途可获取商业授权([LICENSE-COMMERCIAL.md](LICENSE-COMMERCIAL.md)),商业集成须搭配自有或另行合法授权的角色形象。
-- **球形角色视觉形象(blob / wedge / gem 身体造型、配色与特效视觉)**:仅供**个人技术学习与研究**,禁止任何商业用途,**不提供、也永不提供商业授权**,详见 [NOTICE.md](NOTICE.md)。
-- **原创角色 云宝 / 亮亮([mood-mates/](mood-mates/) 目录)**:独立原创设计,**双许可**——个人学习、研究免费使用([社区许可](mood-mates/LICENSE));商业产品、SaaS、客户交付等商业场景可获取授权([商业许可](mood-mates/LICENSE-COMMERCIAL.md))。原创证据链见 [mood-mates/docs/DESIGN-PROVENANCE.md](mood-mates/docs/DESIGN-PROVENANCE.md)。
-
 ## 相关项目
 
 原创角色表情引擎 **Mood Mates**(云宝 / 亮亮,双许可、可商用)位于本仓库的 [mood-mates/](mood-mates/) 目录:自带独立展示站(`mood-mates/index.html`)、集成指南与角色设计规范,与球形角色项目互不影响。
